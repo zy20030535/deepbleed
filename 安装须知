@@ -1,0 +1,7 @@
+need install fsl-complete 
+http://neuro.debian.net/install_pkg.html?p=fsl-complete
+
+
+需要更改文件~./bashrc
+
+加入FSL中要求安装的.~/BASHPROFILE 中的命令
